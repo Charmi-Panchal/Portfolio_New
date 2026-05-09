@@ -210,7 +210,7 @@ Freelance web developer & data science engineer building fast, beautiful web exp
               }}
             >
                <img
-    src="/public/Hero.png"
+    src="/Hero.png"
     alt="Profile"
     style={{
       width: "100%",

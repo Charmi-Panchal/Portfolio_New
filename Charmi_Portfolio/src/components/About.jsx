@@ -526,7 +526,7 @@ function About() {
               style={{ position: "absolute", left: "-60px", top: "50%", transform: "translateY(-50%)", zIndex: 2, opacity: 0.85, pointerEvents: "none" }}
             />
             <div className="about-circle">
-              <img src="/public/New_Aboutme.jpg" alt="Profile" className="about-image" />
+              <img src="/New_Aboutme.jpg" alt="Profile" className="about-image" />
             </div>
           </div>
 
